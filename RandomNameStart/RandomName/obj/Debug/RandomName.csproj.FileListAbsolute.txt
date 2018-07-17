@@ -11,3 +11,14 @@ c:\users\matthew.underhill\source\repos\RandomNameStart\RandomName\obj\Debug\Ran
 c:\users\matthew.underhill\source\repos\RandomNameStart\RandomName\obj\Debug\RandomName.pdb
 C:\Users\matthew.underhill\source\repos\RandomNameStart\RandomName\bin\Debug\DayOneConsoleAppLogic.dll
 C:\Users\matthew.underhill\source\repos\RandomNameStart\RandomName\bin\Debug\DayOneConsoleAppLogic.pdb
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\bin\Debug\RandomName.exe.config
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\bin\Debug\RandomName.exe
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\bin\Debug\RandomName.pdb
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\bin\Debug\DayOneConsoleAppLogic.pdb
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\obj\Debug\RandomName.csprojResolveAssemblyReference.cache
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\obj\Debug\RandomName.Form1.resources
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\obj\Debug\RandomName.Properties.Resources.resources
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\obj\Debug\RandomName.csproj.GenerateResource.Cache
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\obj\Debug\RandomName.csproj.CoreCompileInputs.cache
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\obj\Debug\RandomName.exe
+D:\BravoLT\GitHubProjects\RandomName\RandomName\RandomNameStart\RandomName\obj\Debug\RandomName.pdb
